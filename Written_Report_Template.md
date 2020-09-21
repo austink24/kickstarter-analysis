@@ -1,10 +1,14 @@
 # Kickstarting with Excel
-I am just testing this file!
+
 ## Overview of Project
 
 ### Purpose
+This project is to help Louise determine which countries and time .
 
 ## Analysis and Challenges
+- Some of the challenge came when we attempted to analyze the data without converting the dates. 
+- Once the date issue was fixed we were able to incorporate dates to determine if there is a better time of year to launch a kickstart. 
+- We also wanted to see if there was any correlation between goal and the success of failure of the kickstart.
 
 ### Analysis of Outcomes Based on Launch Date
 
