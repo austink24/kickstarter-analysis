@@ -15,7 +15,7 @@ This project was to help Louise determine the best location, time and type of ki
 
 Through the use of pivot tables and pivot graphs we were able to tell the story to support our findings by using basic tables and graphs to visually represent our data.
 
-[Kickstart_Challenge](https://github.com/austink24/kickstarter-analysis/blob/master/kickstart_challenge.xlxs)
+[Kickstart_Challenge](https://github.com/austink24/kickstarter-analysis/blob/master/Kickstarter_Challenge.xlsx.zip)
 
 ### Analysis of Outcomes Based on Launch Date
 
