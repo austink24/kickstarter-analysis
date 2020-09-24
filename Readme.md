@@ -25,6 +25,7 @@ Through the use of pivot tables and pivot graphs we were able to tell the story 
 
 ### Challenges and Difficulties Encountered
 
+![Outcomes_vs_Launch_Date](https://github.com/austink24/kickstarter-analysis/commit/23ac6e6c6db755263f2890b5d8b8e8cb865140af)
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
