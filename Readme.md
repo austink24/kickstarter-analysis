@@ -18,20 +18,33 @@ Through the use of pivot tables and pivot graphs we were able to tell the story 
 [Kickstart_Challenge](https://github.com/austink24/kickstarter-analysis/blob/master/Kickstarter_Challenge.xlsx.zip)
 
 ### Analysis of Outcomes Based on Launch Date
-
+![Theater_Outcomes_vs_Launch](https://github.com/austink24/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals](https://github.com/austink24/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
-![Outcomes_vs_Launch_Date](https://github.com/austink24/kickstarter-analysis/commit/23ac6e6c6db755263f2890b5d8b8e8cb865140af)
+ - I didn't really come across and difficult or challenging tasks. It was all very straight forward as far as Excel.
+ - GitHub was the most difficult for me. 
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+    - Launching a Theater Kickstart during the summer months greatly increases the chances of being successful!
+    - The Graph also shows that if we stick with Theater we are twice as likely to successed than fail!
+    
 - What can you conclude about the Outcomes based on Goals?
 
+  - Lines graphed for Success and Failure are opposite mirrored images of each other throughout ranges of Goals. They move in syncranicity but in opposite directions.
+  - Making it clear there are ranges to avoid when determining the goal mount. 
+  
 - What are some limitations of this dataset?
 
+  - It didn't include audience demographics.
+  - While the data tracked country it didn't let us dig any deeper, filtering by states or the equivalant for each country. 
+  
 - What are some other possible tables and/or graphs that we could create?
+
+  - We could have graphed the percentage successful against the parent category to see if one was more successful than others.
